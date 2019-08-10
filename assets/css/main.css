@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  font-family: "raleway", sans-serif;
+}
+
+h1 {
+  color: #fff;
+}
+
+h3 {
+  font-size: 50px;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.logo__image {
+  height: 50px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 3rem;
+}
+
+.header__title {
+  text-align: center;
+  font-weight: 400;
+  padding: 250px 0;
+  margin: 0 auto;
+}
+.header__title span {
+  display: block;
+  font-weight: 700;
+}
+
+.section__header {
+  background-color: #e56353;
+  color: white;
+  font-size: 70px;
+  font-weight: 400;
+}
+
+.section__organicos {
+  background-color: #686963;
+  color: #fff;
+}
+
+.section__containers {
+  padding: 50px 0;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container__texto {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.section__image {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.main {
+  width: 100%;
+}
+
+.parrafo__javiera {
+  padding-bottom: 50px;
+}
+
+.section__limache {
+  background-color: #fff;
+  color: #686963;
+}
+
+.section__nosotros {
+  background-color: #e56353;
+  color: white;
+  font-size: 70px;
+  font-weight: 400;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.section__personas {
+  background-color: #fff;
+  color: #686963;
+}
+
+.foto__personas {
+  margin-left: 15%;
+}
+
+.section__contacto {
+  background-color: #e56353;
+  color: white;
+  font-size: 70px;
+  font-weight: 400;
+  text-align: center;
+}
+.section__contacto h2 {
+  color: #fff;
+  font-size: 50px;
+}
+
+.footer {
+  background-color: #686963;
+  color: #fff;
+  text-align: center;
+}
+.footer img {
+  height: 90px;
+  margin: 20px auto 20px auto;
+}
+
+.button {
+  border-radius: 50px;
+  border: 1px solid #686963;
+  font-family: "raleway", sans-serif;
+  color: #686963;
+  margin-bottom: 50px;
+}
+.button:hover {
+  background-color: #91918d;
+  color: #fff;
+}
+
+.button-align {
+  text-align: center;
+  padding: 0.5rem 3rem;
+}
+
+.big__button {
+  font-size: 100px;
+  padding: 0.5rem 3rem;
+}
+
+.large__button {
+  font-size: 70px;
+  padding: 0.5rem 3rem;
+}
+
+.medium__button {
+  font-size: 50px;
+  padding: 0.5rem 5rem;
+}
+
+.small__button {
+  font-size: 18px;
+  padding: 0.5rem 3rem;
+}
+
+/*# sourceMappingURL=main.css.map */

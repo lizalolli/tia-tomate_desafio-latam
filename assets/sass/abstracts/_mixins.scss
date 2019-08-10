@@ -1,0 +1,17 @@
+//REVISAR USO DE MIXINS PARA LOS BACKGROUND
+@mixin fondo-jelly {
+    background-color: $jelly-bean;
+    color:white;
+    font-size: $x-large;
+    font-weight: $regular;
+  }
+
+@mixin fondo-gray {
+    background-color:$granite-gray;
+    color:$white;
+  }
+
+  @mixin fondo-white {
+    background-color:$white;
+    color:$granite-gray;
+  }

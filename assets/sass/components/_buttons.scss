@@ -1,0 +1,37 @@
+.button{
+    border-radius: 50px;
+    border: 1px solid $granite-gray;
+    font-family: $raleway;
+    color:$granite-gray;
+    margin-bottom: 50px;
+        &:hover{
+            background-color: $taupe-gray;
+            color:$white;
+        }
+}
+
+.button-align{
+    text-align: center;
+    padding: .5rem 3rem;
+}
+
+.big__button{
+    font-size: $xx-large;
+    padding: .5rem 3rem;
+}
+
+.large__button{
+    font-size: $x-large;
+    padding: .5rem 3rem;
+}
+
+.medium__button{
+    font-size: $large; 
+    padding: .5rem 5rem;
+}
+
+.small__button{
+    font-size: $medium;
+    padding: .5rem 3rem;
+
+}

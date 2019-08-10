@@ -1,0 +1,21 @@
+.logo__image{
+    height:50px;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 3rem;
+}
+
+.header__title{
+    text-align: center;
+    font-weight: $regular;
+    padding:  250px 0;
+    margin: 0 auto;
+    span{
+        display:block;
+        font-weight: $bold;
+    }
+}
+
+.section__header{
+    @include fondo-jelly;
+}
